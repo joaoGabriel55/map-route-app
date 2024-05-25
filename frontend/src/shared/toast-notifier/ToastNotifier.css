@@ -1,0 +1,9 @@
+.toast-message {
+  padding: 8px 0;
+}
+
+.toast-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}

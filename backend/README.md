@@ -1,0 +1,1 @@
+curl 'http://localhost:3000/route?from[]=8.681495&from[]=49.41461&to[]=8.687872&to=49.420318'
